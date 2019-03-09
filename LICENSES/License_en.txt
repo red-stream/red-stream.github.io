@@ -1,0 +1,35 @@
+Copyright Notice:
+
+Author Contact E-mail: red-stream@qq.com
+The project address: https://github.com/red-stream/red-stream.github.io
+
+Anyone, any organization, any organization using this project in any way and
+all contents of this project need to be agreed and abided by the usage agreement.
+For those who do not abide by the following usage agreements or other violations 
+of the law, use THIS PROJECT and THE ALL CONTENT OF THIS PROJECT. 
+The author reserves the right to pursue legal liability.
+
+
+The usage agreement of THIS PROJECT and ALL CONTENTS:
+
+Part I: The usage agreement of **The Framework Content** in THIS PROJECT
+    The Framework Content is all Contents in the directory "framework" of THIS PROJECT and
+this file "index.html". It includes but is not limited to all the contents of the code program, 
+page style and so on. Author based on AGPLv3, GNU AFFERO GENERAL PUBLIC LICENSE version 3
+publish **The Framework Content** in THIS PROJECT. Use of **The Framework Content** in 
+THIS PROJECT. The contents of AGPLv3 shall be agreed and complied with. Otherwise, 
+it will be regarded as infringement.
+    For details of the use of AGPLv3, please check the directory "LICENSES" in THIS PROJECT 
+file "AGPLv3.txt" or browse http://www.gnu.org/licenses/agpl.html.
+
+Part II:  The usage agreement of **The non-framework Content** in THIS PROJECT
+    The non-framework Content is all content in the directory "content" of THIS PROJECT. 
+Including but not limited toText, pictures, audio, video, etc. The author reserves all rights to
+**The non-framework Content** in THIS PROJECT. No person, organization or institution 
+shall take any form without the written permission of the author. Including but not limited to
+reproducing, copying, citing and other forms, used outside the site. Otherwise, 
+it will be regarded as infringement.
+    But any person, organization or organization may use **The non-framework Content** provided 
+by THIS PROJECT in this website. For learning, research or appreciation, and other 
+non-commercial or non-profit purposes. Compliance with copyright law and The provisions of 
+other relevant laws respect the legitimate rights of authors.
