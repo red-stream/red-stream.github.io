@@ -1,23 +1,21 @@
 版权声明：
 
-作者联系邮箱: red-stream@qq.com
-本网站项目网址： https://github.com/red-stream/red-stream.github.io
-
+作者联系邮箱:          red-stream@foxmail.com
+本网站的网址:          https://red-stream.github.io/
+本网站的项目网址： https://github.com/red-stream/red-stream.github.io
 
     任何人、任何组织、任何机构以任何的方式使用本网站项目以及
 本网站项目内的所有内容都需要同意并遵守一下使用约定。
     对于不遵守以下使用约定或者其他违反法律使用本网站项目以及
 项目内容者，作者保留追究法律责任的权利。
 
-本网站项目的 使用约定：
-
-第一部分：对本网站项目内的 网站框架内容 的使用约定
+使用约定第一部分：对本网站项目内的 网站框架内容 的使用约定
     网站架构内容 即本网站项目内的 framework 目录下的所有内容和
 index.html 文件。包括但不限于其中的的代码程序、页面样式等所有内容。
 作者基于 AGPLv3（GNU AFFERO GENERAL PUBLIC LICENSE version 3）
 发布本网站项目内的 网站架构内容。对本网站项目内的 网站架构内容 的使用
 需同意并遵守 AGPLv3 的规定的内容。否则视为侵权。
-    关于 AGPLv3 规定的使用细则，请查看本网站项目内 LICENSE 目录内的 
+    关于 AGPLv3 规定的使用细则，请前往本网站项目内 LICENSE 目录内的 
 AGPLv3.txt 或浏览 http://www.gnu.org/licenses/agpl.html。
 
 第二部分：对本网站项目内的 非网站框架内容 的使用约定
