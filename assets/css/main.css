@@ -21,12 +21,14 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;}
+	font: inherit; /* inherit a value from father element */
+	vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block; /* add a newline character before and after block element */
+}
 
 body {
 	line-height: 1;
